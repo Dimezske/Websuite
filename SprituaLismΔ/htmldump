@@ -1,0 +1,14 @@
+<div class='column'>
+            <div class='green-column'>
+                <div class="col-md-12 text-block">
+                    <h3>Spells</h3>
+                  <div class="col-md-8">
+                        <h2><a style="color: chartreuse;" href="#">Earth Grounding</a></h2>
+                        <div class="text-container">
+                          <a href="#"><img src="./images/Seal-ref-earth.png" alt="Image:EarthCircle" class="block-image"></a>
+                          <p style="color:rgb(28, 206, 28)">A Learn how to ground and protect your energy <a href="#"style="color:chartreuse">click here!</a></p>                 
+                        </div>
+                  </div>
+                </div>
+            </div>
+          </div>
